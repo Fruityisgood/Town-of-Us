@@ -64,7 +64,7 @@ Fork of Town of Us Reactivated.
 ## Syzyfowy Town of Us
 Developer: Limeshep<br>
 Status: Active<br>
-Latest Among Us version supported: 17.3
+Latest Among Us version supported: 17.3<br>
 Github: https://github.com/LimeShep/Town-Of-Us<br>
 Successor: None<br>
 Supported Among Us Platforms: Steam, Epic Games, Android
