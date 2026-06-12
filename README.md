@@ -36,8 +36,8 @@ Developer: eDonnes124<br>
 Status: Inactive<br>
 Latest Among Us version supported: 16.0.2<br>
 Github: https://github.com/eDonnes124/Town-Of-Us-R<br>
-Successor: Town of Us Mira
-Support Among Us Platforms: Steam, Epic Games
+Successor: Town of Us Mira<br>
+Supported Among Us Platforms: Steam, Epic Games
 
 Unofficial continuation due to original Town of Us being discontinued.
 
@@ -47,7 +47,7 @@ Status: Inactive<br>
 Latest Among Us version supported: 2024.10.29<br>
 Github: https://github.com/AlchlcDvl/TownOfUsReworked<br>
 Successor: None<br>
-Support Among Us Platforms: Steam, Epic Games
+Supported Among Us Platforms: Steam, Epic Games
 
 Fork of Town of Us Reactivated.
 
