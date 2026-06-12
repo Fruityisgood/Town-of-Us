@@ -55,7 +55,7 @@ Fork of Town of Us Reactivated.
 Developer: lekillerdesgames<br>
 Status: Inactive<br>
 Latest Among Us version supported: 17.0.0<br>
-Github: https://github.com/lekillerdesgames/Town-Of-Us-Edited
+Github: https://github.com/lekillerdesgames/Town-Of-Us-Edited<br>
 Successor: None<br>
 Supported Among Us Platforms: Steam, Epic Games
 
