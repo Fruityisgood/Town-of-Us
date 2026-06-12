@@ -1,5 +1,6 @@
 # Town of Us mods Among Us
 This lists major mods related to Town of Us.
+
 ## Town of Us
 Developer: slushiegoose<br>
 Status: Discontinued<br>
@@ -19,6 +20,16 @@ Successor: Town of Polus (mouthwash.gg)<br>
 Supported Among Us Platforms: Steam, Epic Games, Android(Planned)
 
 Roles mod used for polus.gg. Rewrite of Town of Us. Some roles missing. polus.gg got discontinued a month after release.
+
+## Town of Polus (mouthwash.gg)
+Developer: edqx<br>
+Status: Inactive<br>
+Latest Among Us version supported: Unknown<br>
+Github: https://github.com/edqx/MouthwashPrivate<br>
+Successor: None<br>
+Supported Among Us Platforms: Steam
+
+Roles mod used for mouthwash.gg (polus.gg rewritten).
 
 ## Town of Us Reactivated
 Developer: eDonnes124<br>
