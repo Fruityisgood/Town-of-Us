@@ -84,7 +84,7 @@ Fork of Town of Us Reactivated.
 ## Town of Us Mira
 Developer: AU Avengers<br>
 Status: Active<br>
-Latest Among Us version supported: 17.3<br>
+Latest Among Us version supported: 17.4<br>
 Github: https://github.com/AU-Avengers/TOU-Mira<br>
 Successor: None<br>
 Supported Among Us Platforms: Steam, Epic Games, MS Store, Android
@@ -100,3 +100,13 @@ Successor: None<br>
 Supported Among Us Platforms: Steam, Epic Games
 
 Made due to Town of Us Reactivated getting discontinued.
+
+## Town of Us Reactivated (fork)
+Developer: AU Avengers<br>
+Status: Active<br>
+Latest Among Us version supported: 17.4<br>
+Github: https://github.com/AU-Avengers/Town-Of-Us-Reactivated<br>
+Successor: None<br>
+Supported Among Us Platforms: Steam, Epic Games, MS Store, Android
+
+AU Avengers (team that create TOU:M) took over the TOU-R project from eDonnes124.
