@@ -1,5 +1,5 @@
 # Town of Us mods Among Us
-This lists major mods related to Town of Us.
+This lists major mods related to Town of Us. Town of Us is an Among Us mod based on Town of Salem.
 
 ## Town of Us
 Developer: slushiegoose<br>
